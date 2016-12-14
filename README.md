@@ -14,3 +14,6 @@ Dictionary of variables:
   10. idu = player unique identifier 
   11. ids = session unique indentifier
 
+## Instructions
+
+We provide the instructions we use for Monopoly High Fee treatment and Competition. The instructions for the baseline monopoly is similar to the monopoly high fee, but we adjust the fee and therefore the Agent revenues. 
