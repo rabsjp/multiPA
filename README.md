@@ -4,7 +4,7 @@
 Dictionary of variables: 
   1. id_in_session = oTree subject id in each session 
   2. round_number = rounds
-  3. staten = 1 is red, 2 is blue 
+  3. staten = State of Nature, 1 is red, 2 is blue 
   4. decision = Continue or Stop
   5. pay = Payoff 
   6. session = number of session for treatment
